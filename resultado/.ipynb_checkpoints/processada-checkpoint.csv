@@ -1,0 +1,541 @@
+"EJs","Eixo","Cluster","Dores","Resposta"
+"Excelência","MN","1","1",0
+"Excelência","MN","1","2",2
+"Excelência","MN","2","1",2
+"Excelência","MN","2","2",3
+"Excelência","MN","3","1",4
+"Excelência","MN","3","2",4
+"Excelência","MN","4","1",2
+"Excelência","MN","4","2",4
+"Excelência","MN","5","1",4
+"Excelência","MN","5","2",4
+"Excelência","VM","1","1",3
+"Excelência","VM","1","2",4
+"Excelência","VM","2","1",4
+"Excelência","VM","2","2",4
+"Excelência","VM","3","1",4
+"Excelência","VM","3","2",4
+"Excelência","VM","4","1",4
+"Excelência","VM","4","2",4
+"Excelência","VM","5","1",4
+"Excelência","VM","5","2",4
+"Excelência","GO","1","1",4
+"Excelência","GO","1","2",4
+"Excelência","GO","2","1",4
+"Excelência","GO","2","2",4
+"Excelência","GO","3","1",3
+"Excelência","GO","3","2",0
+"Excelência","GO","4","1",3
+"Excelência","GO","4","2",4
+"Excelência","GO","5","1",2
+"Excelência","GO","5","2",2
+"Excelência","GO","5","3",4
+"Excelência","TC","1","1",4
+"Excelência","TC","1","2",0
+"Excelência","TC","1","3",4
+"Excelência","TC","2","1",4
+"Excelência","TC","2","2",2
+"Excelência","TC","2","3",4
+"Excelência","TC","3","1",4
+"Excelência","TC","3","2",4
+"Excelência","TC","3","3",4
+"Excelência","TC","4","1",4
+"Excelência","TC","4","2",4
+"Excelência","TC","4","3",4
+"Excelência","TC","5","1",4
+"Excelência","TC","5","2",4
+"QuimTec","MN","1","1",4
+"QuimTec","MN","1","2",4
+"QuimTec","MN","2","1",3
+"QuimTec","MN","2","2",2
+"QuimTec","MN","3","1",3
+"QuimTec","MN","3","2",2
+"QuimTec","MN","4","1",3
+"QuimTec","MN","4","2",3
+"QuimTec","MN","5","1",4
+"QuimTec","MN","5","2",2
+"QuimTec","VM","1","1",3
+"QuimTec","VM","1","2",4
+"QuimTec","VM","2","1",3
+"QuimTec","VM","2","2",4
+"QuimTec","VM","3","1",3
+"QuimTec","VM","3","2",3
+"QuimTec","VM","4","1",3
+"QuimTec","VM","4","2",3
+"QuimTec","VM","5","1",3
+"QuimTec","VM","5","2",3
+"QuimTec","GO","1","1",3
+"QuimTec","GO","1","2",1
+"QuimTec","GO","2","1",2
+"QuimTec","GO","2","2",2
+"QuimTec","GO","3","1",2
+"QuimTec","GO","3","2",3
+"QuimTec","GO","4","1",3
+"QuimTec","GO","4","2",3
+"QuimTec","GO","5","1",3
+"QuimTec","GO","5","2",1
+"QuimTec","GO","5","3",3
+"QuimTec","TC","1","1",3
+"QuimTec","TC","1","2",1
+"QuimTec","TC","1","3",2
+"QuimTec","TC","2","1",4
+"QuimTec","TC","2","2",3
+"QuimTec","TC","2","3",2
+"QuimTec","TC","3","1",2
+"QuimTec","TC","3","2",4
+"QuimTec","TC","3","3",3
+"QuimTec","TC","4","1",2
+"QuimTec","TC","4","2",2
+"QuimTec","TC","4","3",3
+"QuimTec","TC","5","1",2
+"QuimTec","TC","5","2",2
+"Empreeng","MN","1","1",1
+"Empreeng","MN","1","2",0
+"Empreeng","MN","2","1",1
+"Empreeng","MN","2","2",0
+"Empreeng","MN","3","1",2
+"Empreeng","MN","3","2",1
+"Empreeng","MN","4","1",2
+"Empreeng","MN","4","2",1
+"Empreeng","MN","5","1",1
+"Empreeng","MN","5","2",1
+"Empreeng","VM","1","1",1
+"Empreeng","VM","1","2",3
+"Empreeng","VM","2","1",1
+"Empreeng","VM","2","2",4
+"Empreeng","VM","3","1",3
+"Empreeng","VM","3","2",2
+"Empreeng","VM","4","1",4
+"Empreeng","VM","4","2",1
+"Empreeng","VM","5","1",0
+"Empreeng","VM","5","2",2
+"Empreeng","GO","1","1",1
+"Empreeng","GO","1","2",2
+"Empreeng","GO","2","1",3
+"Empreeng","GO","2","2",1
+"Empreeng","GO","3","1",1
+"Empreeng","GO","3","2",1
+"Empreeng","GO","4","1",2
+"Empreeng","GO","4","2",2
+"Empreeng","GO","5","1",2
+"Empreeng","GO","5","2",3
+"Empreeng","GO","5","3",1
+"Empreeng","TC","1","1",2
+"Empreeng","TC","1","2",0
+"Empreeng","TC","1","3",2
+"Empreeng","TC","2","1",1
+"Empreeng","TC","2","2",1
+"Empreeng","TC","2","3",0
+"Empreeng","TC","3","1",3
+"Empreeng","TC","3","2",4
+"Empreeng","TC","3","3",3
+"Empreeng","TC","4","1",3
+"Empreeng","TC","4","2",2
+"Empreeng","TC","4","3",1
+"Empreeng","TC","5","1",2
+"Empreeng","TC","5","2",3
+"Terra Rara","MN","1","1",1
+"Terra Rara","MN","1","2",1
+"Terra Rara","MN","2","1",3
+"Terra Rara","MN","2","2",3
+"Terra Rara","MN","3","1",1
+"Terra Rara","MN","3","2",1
+"Terra Rara","MN","4","1",1
+"Terra Rara","MN","4","2",0
+"Terra Rara","MN","5","1",2
+"Terra Rara","MN","5","2",0
+"Terra Rara","VM","1","1",0
+"Terra Rara","VM","1","2",3
+"Terra Rara","VM","2","1",1
+"Terra Rara","VM","2","2",1
+"Terra Rara","VM","3","1",1
+"Terra Rara","VM","3","2",1
+"Terra Rara","VM","4","1",1
+"Terra Rara","VM","4","2",2
+"Terra Rara","VM","5","1",3
+"Terra Rara","VM","5","2",3
+"Terra Rara","GO","1","1",0
+"Terra Rara","GO","1","2",0
+"Terra Rara","GO","2","1",0
+"Terra Rara","GO","2","2",2
+"Terra Rara","GO","3","1",3
+"Terra Rara","GO","3","2",3
+"Terra Rara","GO","4","1",1
+"Terra Rara","GO","4","2",0
+"Terra Rara","GO","5","1",1
+"Terra Rara","GO","5","2",0
+"Terra Rara","GO","5","3",2
+"Terra Rara","TC","1","1",4
+"Terra Rara","TC","1","2",3
+"Terra Rara","TC","1","3",2
+"Terra Rara","TC","2","1",4
+"Terra Rara","TC","2","2",2
+"Terra Rara","TC","2","3",0
+"Terra Rara","TC","3","1",3
+"Terra Rara","TC","3","2",3
+"Terra Rara","TC","3","3",2
+"Terra Rara","TC","4","1",2
+"Terra Rara","TC","4","2",3
+"Terra Rara","TC","4","3",2
+"Terra Rara","TC","5","1",0
+"Terra Rara","TC","5","2",2
+"STARTEQ","MN","1","1",3
+"STARTEQ","MN","1","2",0
+"STARTEQ","MN","2","1",3
+"STARTEQ","MN","2","2",0
+"STARTEQ","MN","3","1",3
+"STARTEQ","MN","3","2",1
+"STARTEQ","MN","4","1",1
+"STARTEQ","MN","4","2",2
+"STARTEQ","MN","5","1",1
+"STARTEQ","MN","5","2",2
+"STARTEQ","VM","1","1",0
+"STARTEQ","VM","1","2",1
+"STARTEQ","VM","2","1",1
+"STARTEQ","VM","2","2",1
+"STARTEQ","VM","3","1",2
+"STARTEQ","VM","3","2",0
+"STARTEQ","VM","4","1",4
+"STARTEQ","VM","4","2",1
+"STARTEQ","VM","5","1",0
+"STARTEQ","VM","5","2",4
+"STARTEQ","GO","1","1",0
+"STARTEQ","GO","1","2",0
+"STARTEQ","GO","2","1",1
+"STARTEQ","GO","2","2",2
+"STARTEQ","GO","3","1",2
+"STARTEQ","GO","3","2",1
+"STARTEQ","GO","4","1",1
+"STARTEQ","GO","4","2",2
+"STARTEQ","GO","5","1",0
+"STARTEQ","GO","5","2",1
+"STARTEQ","GO","5","3",0
+"STARTEQ","TC","1","1",1
+"STARTEQ","TC","1","2",1
+"STARTEQ","TC","1","3",2
+"STARTEQ","TC","2","1",3
+"STARTEQ","TC","2","2",0
+"STARTEQ","TC","2","3",1
+"STARTEQ","TC","3","1",1
+"STARTEQ","TC","3","2",3
+"STARTEQ","TC","3","3",1
+"STARTEQ","TC","4","1",3
+"STARTEQ","TC","4","2",3
+"STARTEQ","TC","4","3",3
+"STARTEQ","TC","5","1",0
+"STARTEQ","TC","5","2",3
+"Easy Jr.","MN","1","1",1
+"Easy Jr.","MN","1","2",0
+"Easy Jr.","MN","2","1",0
+"Easy Jr.","MN","2","2",3
+"Easy Jr.","MN","3","1",1
+"Easy Jr.","MN","3","2",0
+"Easy Jr.","MN","4","1",0
+"Easy Jr.","MN","4","2",2
+"Easy Jr.","MN","5","1",2
+"Easy Jr.","MN","5","2",2
+"Easy Jr.","VM","1","1",2
+"Easy Jr.","VM","1","2",0
+"Easy Jr.","VM","2","1",1
+"Easy Jr.","VM","2","2",0
+"Easy Jr.","VM","3","1",0
+"Easy Jr.","VM","3","2",2
+"Easy Jr.","VM","4","1",1
+"Easy Jr.","VM","4","2",1
+"Easy Jr.","VM","5","1",3
+"Easy Jr.","VM","5","2",3
+"Easy Jr.","GO","1","1",0
+"Easy Jr.","GO","1","2",1
+"Easy Jr.","GO","2","1",1
+"Easy Jr.","GO","2","2",0
+"Easy Jr.","GO","3","1",0
+"Easy Jr.","GO","3","2",1
+"Easy Jr.","GO","4","1",0
+"Easy Jr.","GO","4","2",1
+"Easy Jr.","GO","5","1",1
+"Easy Jr.","GO","5","2",0
+"Easy Jr.","GO","5","3",2
+"Easy Jr.","TC","1","1",2
+"Easy Jr.","TC","1","2",1
+"Easy Jr.","TC","1","3",1
+"Easy Jr.","TC","2","1",2
+"Easy Jr.","TC","2","2",1
+"Easy Jr.","TC","2","3",1
+"Easy Jr.","TC","3","1",1
+"Easy Jr.","TC","3","2",2
+"Easy Jr.","TC","3","3",3
+"Easy Jr.","TC","4","1",2
+"Easy Jr.","TC","4","2",1
+"Easy Jr.","TC","4","3",2
+"Easy Jr.","TC","5","1",1
+"Easy Jr.","TC","5","2",0
+"Reina","MN","1","1",1
+"Reina","MN","1","2",1
+"Reina","MN","2","1",1
+"Reina","MN","2","2",0
+"Reina","MN","3","1",1
+"Reina","MN","3","2",0
+"Reina","MN","4","1",2
+"Reina","MN","4","2",2
+"Reina","MN","5","1",2
+"Reina","MN","5","2",3
+"Reina","VM","1","1",2
+"Reina","VM","1","2",4
+"Reina","VM","2","1",0
+"Reina","VM","2","2",2
+"Reina","VM","3","1",2
+"Reina","VM","3","2",3
+"Reina","VM","4","1",2
+"Reina","VM","4","2",2
+"Reina","VM","5","1",3
+"Reina","VM","5","2",2
+"Reina","GO","1","1",0
+"Reina","GO","1","2",0
+"Reina","GO","2","1",1
+"Reina","GO","2","2",2
+"Reina","GO","3","1",2
+"Reina","GO","3","2",0
+"Reina","GO","4","1",2
+"Reina","GO","4","2",3
+"Reina","GO","5","1",3
+"Reina","GO","5","2",2
+"Reina","GO","5","3",3
+"Reina","TC","1","1",1
+"Reina","TC","1","2",3
+"Reina","TC","1","3",0
+"Reina","TC","2","1",3
+"Reina","TC","2","2",0
+"Reina","TC","2","3",0
+"Reina","TC","3","1",0
+"Reina","TC","3","2",0
+"Reina","TC","3","3",0
+"Reina","TC","4","1",2
+"Reina","TC","4","2",0
+"Reina","TC","4","3",0
+"Reina","TC","5","1",1
+"Reina","TC","5","2",0
+"SERCIVIL","MN","1","1",0
+"SERCIVIL","MN","1","2",0
+"SERCIVIL","MN","2","1",0
+"SERCIVIL","MN","2","2",0
+"SERCIVIL","MN","3","1",0
+"SERCIVIL","MN","3","2",0
+"SERCIVIL","MN","4","1",0
+"SERCIVIL","MN","4","2",2
+"SERCIVIL","MN","5","1",0
+"SERCIVIL","MN","5","2",2
+"SERCIVIL","VM","1","1",0
+"SERCIVIL","VM","1","2",1
+"SERCIVIL","VM","2","1",0
+"SERCIVIL","VM","2","2",2
+"SERCIVIL","VM","3","1",0
+"SERCIVIL","VM","3","2",0
+"SERCIVIL","VM","4","1",1
+"SERCIVIL","VM","4","2",1
+"SERCIVIL","VM","5","1",3
+"SERCIVIL","VM","5","2",1
+"SERCIVIL","GO","1","1",0
+"SERCIVIL","GO","1","2",4
+"SERCIVIL","GO","2","1",2
+"SERCIVIL","GO","2","2",0
+"SERCIVIL","GO","3","1",0
+"SERCIVIL","GO","3","2",0
+"SERCIVIL","GO","4","1",0
+"SERCIVIL","GO","4","2",1
+"SERCIVIL","GO","5","1",1
+"SERCIVIL","GO","5","2",0
+"SERCIVIL","GO","5","3",0
+"SERCIVIL","TC","1","1",3
+"SERCIVIL","TC","1","2",0
+"SERCIVIL","TC","1","3",0
+"SERCIVIL","TC","2","1",1
+"SERCIVIL","TC","2","2",0
+"SERCIVIL","TC","2","3",0
+"SERCIVIL","TC","3","1",1
+"SERCIVIL","TC","3","2",0
+"SERCIVIL","TC","3","3",1
+"SERCIVIL","TC","4","1",0
+"SERCIVIL","TC","4","2",0
+"SERCIVIL","TC","4","3",0
+"SERCIVIL","TC","5","1",0
+"SERCIVIL","TC","5","2",1
+"EJAUFS","MN","1","1",0
+"EJAUFS","MN","1","2",0
+"EJAUFS","MN","2","1",0
+"EJAUFS","MN","2","2",0
+"EJAUFS","MN","3","1",2
+"EJAUFS","MN","3","2",1
+"EJAUFS","MN","4","1",1
+"EJAUFS","MN","4","2",2
+"EJAUFS","MN","5","1",2
+"EJAUFS","MN","5","2",3
+"EJAUFS","VM","1","1",1
+"EJAUFS","VM","1","2",2
+"EJAUFS","VM","2","1",2
+"EJAUFS","VM","2","2",2
+"EJAUFS","VM","3","1",2
+"EJAUFS","VM","3","2",3
+"EJAUFS","VM","4","1",4
+"EJAUFS","VM","4","2",2
+"EJAUFS","VM","5","1",4
+"EJAUFS","VM","5","2",3
+"EJAUFS","GO","1","1",0
+"EJAUFS","GO","1","2",1
+"EJAUFS","GO","2","1",2
+"EJAUFS","GO","2","2",1
+"EJAUFS","GO","3","1",2
+"EJAUFS","GO","3","2",3
+"EJAUFS","GO","4","1",0
+"EJAUFS","GO","4","2",3
+"EJAUFS","GO","5","1",3
+"EJAUFS","GO","5","2",0
+"EJAUFS","GO","5","3",3
+"EJAUFS","TC","1","1",1
+"EJAUFS","TC","1","2",0
+"EJAUFS","TC","1","3",0
+"EJAUFS","TC","2","1",3
+"EJAUFS","TC","2","2",1
+"EJAUFS","TC","2","3",1
+"EJAUFS","TC","3","1",3
+"EJAUFS","TC","3","2",4
+"EJAUFS","TC","3","3",1
+"EJAUFS","TC","4","1",2
+"EJAUFS","TC","4","2",2
+"EJAUFS","TC","4","3",0
+"EJAUFS","TC","5","1",2
+"EJAUFS","TC","5","2",1
+"ProdUP","MN","1","1",0
+"ProdUP","MN","1","2",0
+"ProdUP","MN","2","1",0
+"ProdUP","MN","2","2",1
+"ProdUP","MN","3","1",2
+"ProdUP","MN","3","2",4
+"ProdUP","MN","4","1",0
+"ProdUP","MN","4","2",2
+"ProdUP","MN","5","1",1
+"ProdUP","MN","5","2",2
+"ProdUP","VM","1","1",1
+"ProdUP","VM","1","2",0
+"ProdUP","VM","2","1",0
+"ProdUP","VM","2","2",0
+"ProdUP","VM","3","1",0
+"ProdUP","VM","3","2",0
+"ProdUP","VM","4","1",0
+"ProdUP","VM","4","2",2
+"ProdUP","VM","5","1",3
+"ProdUP","VM","5","2",2
+"ProdUP","GO","1","1",0
+"ProdUP","GO","1","2",1
+"ProdUP","GO","2","1",1
+"ProdUP","GO","2","2",0
+"ProdUP","GO","3","1",0
+"ProdUP","GO","3","2",0
+"ProdUP","GO","4","1",3
+"ProdUP","GO","4","2",2
+"ProdUP","GO","5","1",1
+"ProdUP","GO","5","2",1
+"ProdUP","GO","5","3",1
+"ProdUP","TC","1","1",3
+"ProdUP","TC","1","2",1
+"ProdUP","TC","1","3",1
+"ProdUP","TC","2","1",1
+"ProdUP","TC","2","2",2
+"ProdUP","TC","2","3",1
+"ProdUP","TC","3","1",2
+"ProdUP","TC","3","2",2
+"ProdUP","TC","3","3",2
+"ProdUP","TC","4","1",0
+"ProdUP","TC","4","2",3
+"ProdUP","TC","4","3",0
+"ProdUP","TC","5","1",3
+"ProdUP","TC","5","2",3
+"Agrosertão","MN","1","1",3
+"Agrosertão","MN","1","2",2
+"Agrosertão","MN","2","1",2
+"Agrosertão","MN","2","2",3
+"Agrosertão","MN","3","1",4
+"Agrosertão","MN","3","2",3
+"Agrosertão","MN","4","1",3
+"Agrosertão","MN","4","2",4
+"Agrosertão","MN","5","1",3
+"Agrosertão","MN","5","2",4
+"Agrosertão","VM","1","1",3
+"Agrosertão","VM","1","2",4
+"Agrosertão","VM","2","1",3
+"Agrosertão","VM","2","2",3
+"Agrosertão","VM","3","1",3
+"Agrosertão","VM","3","2",3
+"Agrosertão","VM","4","1",4
+"Agrosertão","VM","4","2",3
+"Agrosertão","VM","5","1",3
+"Agrosertão","VM","5","2",4
+"Agrosertão","GO","1","1",2
+"Agrosertão","GO","1","2",2
+"Agrosertão","GO","2","1",3
+"Agrosertão","GO","2","2",3
+"Agrosertão","GO","3","1",3
+"Agrosertão","GO","3","2",3
+"Agrosertão","GO","4","1",3
+"Agrosertão","GO","4","2",4
+"Agrosertão","GO","5","1",3
+"Agrosertão","GO","5","2",3
+"Agrosertão","GO","5","3",3
+"Agrosertão","TC","1","1",3
+"Agrosertão","TC","1","2",2
+"Agrosertão","TC","1","3",3
+"Agrosertão","TC","2","1",3
+"Agrosertão","TC","2","2",3
+"Agrosertão","TC","2","3",3
+"Agrosertão","TC","3","1",3
+"Agrosertão","TC","3","2",3
+"Agrosertão","TC","3","3",3
+"Agrosertão","TC","4","1",3
+"Agrosertão","TC","4","2",3
+"Agrosertão","TC","4","3",3
+"Agrosertão","TC","5","1",3
+"Agrosertão","TC","5","2",3
+"EdificarSe","MN","1","1",4
+"EdificarSe","MN","1","2",1
+"EdificarSe","MN","2","1",2
+"EdificarSe","MN","2","2",3
+"EdificarSe","MN","3","1",3
+"EdificarSe","MN","3","2",2
+"EdificarSe","MN","4","1",2
+"EdificarSe","MN","4","2",2
+"EdificarSe","MN","5","1",5
+"EdificarSe","MN","5","2",4
+"EdificarSe","VM","1","1",2
+"EdificarSe","VM","1","2",1
+"EdificarSe","VM","2","1",1
+"EdificarSe","VM","2","2",3
+"EdificarSe","VM","3","1",3
+"EdificarSe","VM","3","2",3
+"EdificarSe","VM","4","1",2
+"EdificarSe","VM","4","2",5
+"EdificarSe","VM","5","1",3
+"EdificarSe","VM","5","2",5
+"EdificarSe","GO","1","1",1
+"EdificarSe","GO","1","2",2
+"EdificarSe","GO","2","1",2
+"EdificarSe","GO","2","2",2
+"EdificarSe","GO","3","1",2
+"EdificarSe","GO","3","2",2
+"EdificarSe","GO","4","1",3
+"EdificarSe","GO","4","2",4
+"EdificarSe","GO","5","1",5
+"EdificarSe","GO","5","2",3
+"EdificarSe","GO","5","3",3
+"EdificarSe","TC","1","1",3
+"EdificarSe","TC","1","2",3
+"EdificarSe","TC","1","3",2
+"EdificarSe","TC","2","1",2
+"EdificarSe","TC","2","2",1
+"EdificarSe","TC","2","3",2
+"EdificarSe","TC","3","1",4
+"EdificarSe","TC","3","2",2
+"EdificarSe","TC","3","3",3
+"EdificarSe","TC","4","1",3
+"EdificarSe","TC","4","2",2
+"EdificarSe","TC","4","3",2
+"EdificarSe","TC","5","1",2
+"EdificarSe","TC","5","2",3

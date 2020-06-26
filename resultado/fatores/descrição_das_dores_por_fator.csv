@@ -1,0 +1,46 @@
+Ordenação,Fator,Dor,Descrição
+1,Fragilidade da Cultura,TC_4_2,Nosso time é pouco empoderado para assumir maiores responsabilidades.
+2,Fragilidade da Cultura,TC_1_3,Não existe uma formação de time na EJ com uma coesão interna suficiente para que todos compartilhem dos mesmos objetivos e sejam responsáveis.
+3,Fragilidade da Cultura,TC_5_2,Não conseguimos garantir a melhor performance de todos os membros reforçada pela cultura forte da EJ.
+4,Fragilidade da Cultura,MN_3_2,Não somos ágeis no gerenciamento dos nossos projetos.
+5,Fragilidade da Cultura,TC_3_3,A essência da nossa cultura não é vivida diariamente e precisa ser reforçada constantemente.
+6,Fragilidade da Cultura,TC_4_3,Temos dificuldade em manter nossa cultura independente das mudanças de gestão da EJ.
+7,Fragilidade da Cultura,MN_3_1,Temos dificuldades de inovar nos nossos projetos para transformá-los em soluções eficientes e completas para o mercado.
+8,Fragilidade da Cultura,TC_2_3,As ações de desenvolvimento de pessoas e dos times da nossa EJ são muito burocráticas e pouco eficientes.
+9,Fragilidade da Cultura,TC_1_1,Temos dificuldade em atrair membros para a EJ.
+1,Inefetividade do Processo de Vendas,GO_3_1,Não conseguimos ser eficientes em traçar e monitorar estratégias para a nossa EJ.
+2,Inefetividade do Processo de Vendas,VM_1_2,"Não temos um processo de vendas estruturado, nem um bom volume de negociação."
+3,Inefetividade do Processo de Vendas,TC_2_1,"O engajamento dos nossos membros é muito desproporcional, o que gera picos de produtividade e inconstância de resultados."
+4,Inefetividade do Processo de Vendas,VM_4_1,Não temos uma inteligência de vendas para tornar a prospecção de novos negócios e vendas mais eficiente.
+5,Inefetividade do Processo de Vendas,MN_4_1,Não colocamos o cliente no centro da estratégia e da operação da nossa EJ para gerar uma experiência.
+6,Inefetividade do Processo de Vendas,VM_3_1,Nossa estratégia de marketing não é eficiente ou profissionalizada em posicionar nossa marca no mercado e atrair novos negócios.
+7,Inefetividade do Processo de Vendas,GO_2_2,Não conseguimos traçar uma estratégia compatível com nossa realidade nem monitorá-la no dia a dia e nossa estrutura interna não potencializa os resultados da EJ.
+8,Inefetividade do Processo de Vendas,TC_4_1,Não temos uma jornada de desenvolvimento dos membros da nossa EJ.
+9,Inefetividade do Processo de Vendas,VM_2_1,Nosso processo de vendas é lento e burocrático internamente para vender mais projetos.
+1,Dificuldade de Inovar,GO_4_2,Não conseguimos inovar e explorar oportunidades no nosso modelo de negócios para ganhar competitividade no mercado.
+2,Dificuldade de Inovar,MN_5_2,Não conseguimos desenvolver inovações disruptivas (que quebram padrões) e criativas para se destacar no mercado.
+3,Dificuldade de Inovar,GO_5_1,Nossa estratégia não está voltada para a inovação no modelo de negócios.
+4,Dificuldade de Inovar,VM_1_1,"Não sabemos como buscar clientes para fechar projetos em nossa EJ e sempre vendemos os mesmos projetos, que são muito simples."
+5,Dificuldade de Inovar,VM_4_2,Nossa estratégia de posicionamento de marca e de vendas não são eficientes em gerar receita recorrente e previsível para a nossa EJ.
+6,Dificuldade de Inovar,VM_3_2,Temos dificuldade em identificar métodos ideais de prospecção para nossa EJ e arriscar em novos nichos de mercado.
+7,Dificuldade de Inovar,GO_5_3,Não conseguimos alavancar a nossa operação a partir de investimentos estratégicos.
+8,Dificuldade de Inovar,MN_5_1,Temos dificuldade em gerar impacto em escala e aumentar nossa lucratividade por meio do nosso modelo de negócios.
+9,Dificuldade de Inovar,TC_5_1,Não conseguimos desenvolver nossos membros com base nas habilidades e competências do futuro para fundamentar a inovação dentro da EJ.
+1,Pouca Expertise em Projetos,TC_1_2,"Não possuímos conhecimentos os fundamentos teóricos, nem como aplicá-los de forma prática na execução de projetos."
+2,Pouca Expertise em Projetos,GO_1_2,Poucos membros estão alocados em projetos.
+3,Pouca Expertise em Projetos,GO_2_1,Não possuímos os processos da nossa operação bem estruturados e não temos estabilidade no nosso sistema de gestão.
+4,Pouca Expertise em Projetos,MN_1_1,Não sabemos identificar quais são e de quem são os problemas de mercado que podemos resolver.
+5,Pouca Expertise em Projetos,MN_2_1,Não somos eficientes em diagnosticar os problemas dos nossos clientes e não sabemos precificar os nossos projetos de forma inteligente.
+6,Pouca Expertise em Projetos,MN_4_2,Não conseguimos inovar e explorar oportunidades no nosso modelo de negócios para ganhar competitividade no mercado.
+7,Pouca Expertise em Projetos,TC_5_1,Não conseguimos desenvolver nossos membros com base nas habilidades e competências do futuro para fundamentar a inovação dentro da EJ.
+8,Pouca Expertise em Projetos,VM_5_2,Temos dificuldade de encontrar nichos de mercados alternativos para serem explorados e posicionar nossa marca em canais que os atinjam.
+9,Pouca Expertise em Projetos,VM_2_2,Não temos uma estratégia de marketing e vendas para buscar novos negócios e nossos vendedores são pouco preparados para negociação.
+1,Deficiência em Alavancagem,VM_5_1,Não realizamos investimentos em estruturas que torne nosso processo de vendas mais inteligente e automatizado.
+2,Deficiência em Alavancagem,GO_5_2,Nosso design organizacional não é completamente voltado para gerar o maior valor para o cliente.
+3,Deficiência em Alavancagem,MN_2_2,Temos um trabalho muito centrado no interno da EJ e pouco voltado para entregar melhores projetos.
+4,Deficiência em Alavancagem,TC_1_1,Temos dificuldade em atrair membros para a EJ.
+5,Deficiência em Alavancagem,VM_4_1,Não temos uma inteligência de vendas para tornar a prospecção de novos negócios e vendas mais eficiente.
+6,Deficiência em Alavancagem,TC_2_2,"Nossos membros são poucos qualificados tecnicamente, o que transmite uma imagem pouco profissional da EJ."
+7,Deficiência em Alavancagem,TC_5_2,Não conseguimos garantir a melhor performance de todos os membros reforçada pela cultura forte da EJ.
+8,Deficiência em Alavancagem,VM_3_1,Nossa estratégia de marketing não é eficiente ou profissionalizada em posicionar nossa marca no mercado e atrair novos negócios.
+9,Deficiência em Alavancagem,GO_5_3,Não conseguimos alavancar a nossa operação a partir de investimentos estratégicos.
