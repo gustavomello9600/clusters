@@ -8,4 +8,4 @@ Para uma visão mais aprofundada, recomenda-se ler o PDF do Relatório Técnico.
 
 ## Exportando o Notebook Jupyter como PDF
 
-É necessário copiar o conteúdo da pasta /template deste repositório para a pasta Usuário/.jupyter ao usar o LaTex para gerar o PDF.
+É necessário copiar o conteúdo da pasta /template deste repositório para a pasta Usuário/.jupyter ao usar o LaTeX para gerar o PDF.
